@@ -14,7 +14,7 @@
     },
     {
         "_id" : "0282e0e58a5c404fbd15261f11c2ab6b",
-        "title" : "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "title" : "React - The Complete Guide (Includes Redux)",
         "price" : 25000,
         "instructor" : "rabeya nesa",
         "ratings" : 4.5,
@@ -27,7 +27,7 @@
     },
     {
         "_id" : "f69a695f037cd9484cecaea37ca71011",
-        "title" : "Modern React with Redux",
+        "title" : "Modern JS & React With Redux in 2022",
         "price" : 12000,
         "instructor" : "arif mia",
         "ratings" : 4.0,
@@ -53,7 +53,7 @@
     },
     {
         "_id" : "11468ed61aee84de492a8b04158a22f9",
-        "title" : "API and Web Service Introduction",
+        "title" : "API and Web Service Professionals Guide",
         "price" : 18000,
         "instructor" : "nj milon",
         "ratings" : 4.5,
