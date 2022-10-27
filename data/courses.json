@@ -58,7 +58,7 @@
         "instructor" : "nj milon",
         "ratings" : 4.5,
         "bestSeller" : true,
-        "img" : "https://thumbs.dreamstime.com/b/api-gear-icon-linear-template-software-logo-black-simple-illustration-contour-isolated-vector-image-white-background-172561370.jpg",
+        "img" : "https://w7.pngwing.com/pngs/308/119/png-transparent-web-development-application-programming-interface-computer-icons-web-api-others-text-computer-program-web-application.png",
         "expectedLearning" : "Introduction to APIs and RESTful Web Services, Includes HTTP,JSON,XML,REST,SOAP,OAuth,OpenID Connect,Postman and Python",
         "courseFor" : "Anyone that wants to learn api",
         "requirements" : "No previous knowledge required.",
