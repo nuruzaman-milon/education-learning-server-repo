@@ -3,8 +3,10 @@ const app = express()
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 
+//cors for client side 
 app.use(cors())
 
+//require course data
 const courses = require('./data/courses.json');
 
 //home route for showing a random message to ui
@@ -24,6 +26,7 @@ app.get('/course/:id', (req, res) => {
   res.send(selectedCourse);
 });
 
+//port
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
